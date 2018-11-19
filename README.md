@@ -6,7 +6,8 @@ The project is based on the two algorithms below.
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181119124849580.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTY3OTQxMQ==,size_16,color_FFFFFF,t_70)
 
 It is not friendly in computing the EMD distance between two distribution. so in this paper, it proposed the approxiamating EMD distance for  high dimensional and sparse case. It should be noted that it is not necessary to compute EMD distance in all condition.
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181119124856106.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTY3OTQxMQ==,size_16,color_FFFFFF,t_70)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20181119124856106.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTY3OTQxMQ===200x,size_16,color_FFFFFF,t_70)
 ### Usage:
 When you want to use abstraction in Texas Hold’em, you should use :
 ```
