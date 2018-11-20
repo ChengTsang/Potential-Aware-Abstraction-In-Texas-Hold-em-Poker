@@ -9,7 +9,7 @@ The project is based on the two algorithms below.
 
 It is not friendly in computing the EMD distance between two distribution. so in this paper, it proposed the approxiamating EMD distance for  high dimensional and sparse case. It should be noted that it is not necessary to compute EMD distance in all condition.
 
-<img src="https://img-blog.csdnimg.cn/20181119124856106.jpg" width=35% height=35% div align=center/> 
+<img src="https://img-blog.csdnimg.cn/20181119124856106.jpg" width=35% height=35% div align=center /> 
 
 
 ### Usage:
