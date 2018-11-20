@@ -1,1 +1,1 @@
-language: node_js os: - linuxnode_js: - 6install: - npm install -g sails bower cnpm - npm iscript: - npm run coverafter_success: - npm run coveralls
+ language: python script: true
