@@ -1,5 +1,5 @@
 language: node_js
-# nodejs°æ±¾
+# nodejsç‰ˆæœ¬
 node_js: 
     - '6'
 
@@ -15,7 +15,7 @@ install:
 
 before_script:
 
-# ÎŞÆäËûÒÀÀµÏîËùÒÔÖ´ĞĞnpm run build ¹¹½¨¾ÍĞĞÁË
+# æ— å…¶ä»–ä¾èµ–é¡¹æ‰€ä»¥æ‰§è¡Œnpm run build æ„å»ºå°±è¡Œäº†
 script:
   - npm run build
 
@@ -29,11 +29,11 @@ after_script:
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
 # E: Build LifeCycle
 
-#Ö¸¶¨·ÖÖ§£¬Ö»ÓĞÖ¸¶¨µÄ·ÖÖ§Ìá½»Ê±²Å»áÔËĞĞ½Å±¾
+#æŒ‡å®šåˆ†æ”¯ï¼Œåªæœ‰æŒ‡å®šçš„åˆ†æ”¯æäº¤æ—¶æ‰ä¼šè¿è¡Œè„šæœ¬
 branches:
   only:
     - master
 env:
  global:
-   # ÎÒ½«ÆäÌí¼Óµ½ÁËtravis-ciµÄ»·¾³±äÁ¿ÖĞ
+   # æˆ‘å°†å…¶æ·»åŠ åˆ°äº†travis-ciçš„ç¯å¢ƒå˜é‡ä¸­
    #- GH_REF: github.com/yimogit/metools.git 
