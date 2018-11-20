@@ -11,7 +11,7 @@ It is not friendly in computing the EMD distance between two distribution. so in
 
 <center>
 <img src="https://img-blog.csdnimg.cn/20181119124856106.jpg" width=35% height=35% div align=center/> 
-<center>
+
 
 ### Usage:
 When you want to use abstraction in Texas Hold’em, you should use :
