@@ -38,3 +38,5 @@ If you read the paper upper carefully, you will understand that heuristic algori
 
 As illustrated in the paper, it needs massive computing power to get results in 52 cards.
 
+### Reference
+[Potential-Aware Imperfect_Recall Absreaction with Earch Mover's Distance in Imperfect-Information Games](http://www.cs.cmu.edu/afs/cs/Web/People/sandholm/potential-aware_imperfect-recall.aaai14.pdf)
