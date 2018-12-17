@@ -3,9 +3,7 @@
 ![](https://img.shields.io/badge/license-MIT-000000.svg)
 ![](https://codebeat.co/webhooks/github/pull_requests/94a77fb4-b070-4c07-a6a8-8294f90a5b36)
 
-<div align=center>
-<iframe height=500 width=500 src="https://github.com/ChengTsang/PPO-clip-and-PPO-penalty-on-Atari-Domain/tree/master/image/1.gif">
-<div align=left>
+![image](https://github.com/ChengTsang/PPO-clip-and-PPO-penalty-on-Atari-Domain/tree/master/image/1.gif)  
 	
 This code is based on the implementation of http://www.cs.cmu.edu/afs/cs/Web/People/sandholm/potential-aware_imperfect-recall.aaai14.pdf
 you can read it to understand its details.
